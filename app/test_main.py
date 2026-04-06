@@ -52,7 +52,7 @@ from app.main import outdated_products
             },
             {
                 "name": "pork",
-                "expiration_date": date(2026, 4, 8),
+                "expiration_date": date(2026, 4, 6),
             },
             {
                 "name": "tofu",
